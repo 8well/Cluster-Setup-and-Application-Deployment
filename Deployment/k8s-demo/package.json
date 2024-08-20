@@ -1,0 +1,11 @@
+{
+  "name": "k8s-demo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "prom-client": "^14.0.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
